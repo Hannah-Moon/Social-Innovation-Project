@@ -1,7 +1,7 @@
 Social-Innovation-Project
 =============
 
-## Incorporated techniques and tools
+### Incorporated techniques and tools
 - "human centered research"
 - "ethnography"
 - "user research"
