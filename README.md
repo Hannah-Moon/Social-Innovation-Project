@@ -13,3 +13,7 @@ Social-Innovation-Project
 - "algorithm"
 - "regulation"
 - "governance"
+
+### References
+#### 1. Financial Model Development 
+##### a) [Key success factors for mobile app platform activation]("")
