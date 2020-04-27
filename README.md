@@ -16,4 +16,4 @@ Social-Innovation-Project
 
 ### References
 #### 1. Financial Model Development 
-##### a) [Key success factors for mobile app platform activation]("")
+##### a) 
